@@ -5,5 +5,5 @@
 - And so on =)
 
 Books in repo:
-: TDD; done
-: Crafting Interpriter;
+- TDD;
+- Crafting Interpriter;
